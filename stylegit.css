@@ -1,0 +1,10 @@
+h1 {
+    font: 100;
+    color: red;
+    font-weight: bold;
+}
+
+p {
+    color: blue;
+    font-size: 14px;
+}
