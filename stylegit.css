@@ -8,3 +8,11 @@ p {
     color: blue;
     font-size: 14px;
 }
+
+body {
+    background: violet;
+}
+
+h2 {
+    color: yellow;
+}
